@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/fanas2/fanas2.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 我的学习日记
+我本人现在是大四的学生，因为在学校里虚度了许多光阴，临近毕业却无扎实的业务能力，我趁着在企业实习的机会，边实习边学习，我会在这里上传我的学习历程，记录自己的学习过程，希望能帮助一起学习的人，共勉。
 
 ### Markdown
 
